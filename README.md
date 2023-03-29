@@ -14,7 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Typescript
 - React
-Bibliotecas
+
+## Bibliotecas
 
 - [React](https://react.dev/)
 - [Typescript](https://www.typescriptlang.org/)
